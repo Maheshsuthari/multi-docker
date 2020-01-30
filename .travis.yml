@@ -17,4 +17,4 @@ after_success:
   - docker push Maheshsuthari/multi-client
   - docker push Maheshsuthari/multi-nginx
   - docker push Maheshsuthari/multi-server
-  - docker push Maheshsuthari/multi-worker
+  - docker push Maheshsuthari/multi-worker  
